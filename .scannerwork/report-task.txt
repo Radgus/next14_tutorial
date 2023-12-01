@@ -1,0 +1,6 @@
+projectKey=next14-test
+serverUrl=https://sonar-dev.macropay.mx
+serverVersion=9.9.1.69595
+dashboardUrl=https://sonar-dev.macropay.mx/dashboard?id=next14-test
+ceTaskId=AYwm7fy6vHa_t0pEtyvg
+ceTaskUrl=https://sonar-dev.macropay.mx/api/ce/task?id=AYwm7fy6vHa_t0pEtyvg
