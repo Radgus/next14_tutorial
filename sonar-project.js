@@ -2,7 +2,7 @@ const sonarqubeScanner = require("sonarqube-scanner");
 
 sonarqubeScanner(
   {
-    serverUrl: "https://sonar-dev.macropay.mx",
+    serverUrl: "",
     options: {
       "sonar.projectKey": "next14-test",
       "sonar.projectName": "next14-test",
@@ -14,7 +14,7 @@ sonarqubeScanner(
       "sonar.test.inclusions":
         "app/**/*.spec.js,app/**/*.spec.jsx,app/**/*.test.js,app/**/*.test.jsx,server/**/*.spec.js,server/**/*.test.js",
       "sonar.sourceEncoding": "UTF-8",
-      "sonar.login": "sqp_e3760c8427556de51fafc08be4b37e04e371983f",
+      "sonar.login": "",
       "sonar.javascript.lcov.reportPaths": "coverage/lcov.info",
     },
   },
